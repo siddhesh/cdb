@@ -1,4 +1,4 @@
-bin_PROGRAMS		= cdbget cdbmake cdbdump cdbstats cdbtest
+bin_PROGRAMS		= cdbget cdbmake cdbdump cdbstats cdbtest cdbmake-sv cdbmake-12
 lib_LTLIBRARIES		= libcdb.la
 
 cdbget_SOURCES		= cdbget.c
@@ -44,5 +44,3 @@ cdbmake-12: cdbmake-12.sh
 
 datarootdir = @datarootdir@
 
-clean:
-	rm -f cdbmake-sv cdbmake-12
