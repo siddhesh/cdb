@@ -1,7 +1,20 @@
+Original cdb:
+
 cdb 0.75, beta.
 20000219
 Copyright 2000
 D. J. Bernstein
 
 cdb home page: http://cr.yp.to/cdb.html
-Installation instructions: http://cr.yp.to/cdb/install.html
+
+------------------------------------------------
+
+This software is an autotoolized version of the original cdb
+(see details above).
+
+Repository: http://github.com/siddhesh/cdb.git
+
+For bugs, requests, rants contact:
+
+Siddhesh Poyarekar <siddhesh.poyarekar@gmail.com>
+

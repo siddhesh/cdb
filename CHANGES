@@ -14,3 +14,8 @@
 	internal: added testzero to rts.
 	ui: posplus() sets nomem if it passes 4GB.
 	version: cdb 0.75, beta.
+20091210 (Siddhesh)
+	Added autotools support
+	Removed unnecessary build scripts
+	Some targets are not built yet, will add them as and when someone
+		requests
